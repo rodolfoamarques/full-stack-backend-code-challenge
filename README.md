@@ -16,25 +16,25 @@ The sooner you get your submission back to us, the sooner we can progess your ap
      * And much more...
 
 
-## Objective
+## The Challenge
 
-Create a commandline API mashup of the Github and Twitter APIs.
+1. Create a commandline API mashup of the Github and Twitter APIs.
 
-Search for "Football" projects on GitHub, then for each project search for any tweets mentioning it.
+2. Search for "Football" projects on GitHub, then, for each project, search for any tweets mentioning it.
 
-Output the Github summary of each project together with a list of recent tweets.
+3. Output the Github summary of each project together with a list of recent tweets.
 
 ## Instructions
 
+We are not a dogmatic organisation - you are free to choose the technologies you wish to use to implement this challenge. However, given the nature of the role, the following are preferable to us:
+
 - You may complete this challenge in Node.js (preferred), Java, or C#
-
 - We expect your submission to be 'production' quality. We leave it to your judgement what this may entail
-
 - Include any instructions required to run your submission in Markdown format
 
 ## Deadline
 
-- Please complete and submit the challenge within 7 days
+- While there is no specific deadline, we request that you complete and submit the challenge within 7 days
 
 - We're more interested in how well you approach and complete the challenge, rather than how quickly
 
@@ -46,7 +46,8 @@ Output the Github summary of each project together with a list of recent tweets.
 
 - As the Twitter API is rate limited retrieving tweets for a maximum of 10 projects will be sufficient
 
-- Your submission should be made available privately to Sportdec in either Github or Bitbucket
+- Add your submission to Github as a private repo and add the following Sportdec team-members as collaborators:
+  @onlydave;@dereklawless;@cusackd;@Wogiebear
 
 ## Resources
 
