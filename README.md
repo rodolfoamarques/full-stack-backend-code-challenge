@@ -54,8 +54,7 @@ We are not a dogmatic organisation - you are free to choose the technologies you
 ### The GitHub API documentation
 - https://developer.github.com/v3/search/#search-repositories
 
-- https://developer.github.com/v3/activity/events/#list-public-events-for-a-network-of-
-repositories
+- https://developer.github.com/v3/activity/events/#list-public-events-for-a-network-of-repositories
 
 
 ### The Twitter API documentation
