@@ -47,7 +47,7 @@ We are not a dogmatic organisation - you are free to choose the technologies you
 - As the Twitter API is rate limited retrieving tweets for a maximum of 10 projects will be sufficient
 
 - Add your submission to Github as a private repo and add the following Sportdec team-members as collaborators:
-  @onlydave;@dereklawless;@cusackd;@Wogiebear
+  @onlydave;@dereklawless;@Wogiebear
 
 ## Resources
 
