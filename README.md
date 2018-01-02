@@ -35,7 +35,7 @@ While you're free to choose the technologies you wish to use to complete this ch
 
 - As the Twitter API is rate limited retrieving tweets for a maximum of 10 projects will be sufficient
 
-- Add your submission to Github as a private repo and add the following Sportdec team members as collaborators:
+- Publish your submission to Github as a repo, adding the following Sportdec team members as collaborators:
   - `@dereklawless`
   - `@onlydave`
 
