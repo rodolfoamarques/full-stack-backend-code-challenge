@@ -1,46 +1,35 @@
-# full-stack-backend-code-challenge
+# Sportdec coding challenge
 
 ## Introduction
-Welcome to the Sportdec coding challenge for engineers interested in roles on the __backend__ of the Sportdec mobile stack. The challenge is intended for candidates applying for mobile client development roles in our company. It's not a super-pressure time challenge - you can complete it at home, in your own time. Ideally you will complete this in less than __1 week__. 
-The sooner you get your submission back to us, the sooner we can progess your application to final interviews.
+Welcome to the coding challenge for developers interested in __backend__ roles in Sportdec. It's not an against-the-clock time challenge - you can complete it at home in your own time. 
 
-    A little bit about us
-    Sportdec is a sports companion app for sports fans. What's a sports companion app? 
-    Well, we see it as providing fans with features and fun to compliment their 
-    following of live games. That includes:
-     * Realtime updates and notificaations on match scores and events :soccer:
-     * Match, team and players stats
-     * Orginal sport content of a fan's favourite teams
-     * Pre- and live-match money betting
-     * Sports games
-     * And much more...
-
+Ideally you will return your submission in __within 7 days__ - the sooner you get your submission back to us, the more quickly we can progress your application to interview stage.
 
 ## The Challenge
 
-1. Create a commandline API mashup of the Github and Twitter APIs.
+1. Create a commandline API mashup of the Github and Twitter APIs
 
-2. Search for "Football" projects on GitHub, then, for each project, search for any tweets mentioning it.
+2. Search for "Football" projects on GitHub, then, for each project, search for any tweets mentioning it
 
-3. Output the Github summary of each project together with a list of recent tweets.
+3. Output the Github summary of each project together with a list of recent tweets
 
 ## Instructions
 
-We are not a dogmatic organisation - you are free to choose the technologies you wish to use to implement this challenge. However, given the nature of the role, the following are preferable to us:
+While you're free to choose the technologies you wish to use to complete this challenge, submissions in Node.js, Java, C#, or Go are preferable.
 
-- You may complete this challenge in Node.js (preferred), Java, or C#
-- We expect your submission to be 'production' quality. We leave it to your judgement what this may entail
+- We expect your submission to be 'production' quality - __we leave it to your own judgement what this might entail__
+
 - Include any instructions required to run your submission in Markdown format
 
 ## Deadline
 
-- While there is no specific deadline, we request that you complete and submit the challenge within 7 days
+- While there is no specific deadline, we request that you return your submission within 7 days
 
 - We're more interested in how well you approach and complete the challenge, rather than how quickly
 
 ## Guidelines
 
-- You will require a Twitter consumer key and secret to complete this challenge
+- You will require a Twitter consumer key and secret to complete this challenge 
 
 - Do not include any private details with your submission. We suggest you make any private values such as API keys configurable
 
@@ -51,13 +40,13 @@ We are not a dogmatic organisation - you are free to choose the technologies you
 
 ## Resources
 
-### The GitHub API documentation
+### GitHub API documentation
 - https://developer.github.com/v3/search/#search-repositories
 
 - https://developer.github.com/v3/activity/events/#list-public-events-for-a-network-of-repositories
 
 
-### The Twitter API documentation
+### Twitter API documentation
 - https://dev.twitter.com/oauth/application-only
 
 - https://dev.twitter.com/oauth/overview/application-owner-access-tokens
