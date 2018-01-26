@@ -17,15 +17,15 @@ Ideally you will return your submission in __within 7 days__ - the sooner you ge
 
 While you're free to choose the technologies you wish to use to complete this challenge, submissions in Node.js, Java, C#, or Go are preferable.
 
-- We expect your submission to be 'production' quality - __we leave it to your own judgement what this might entail__
+- We expect your submission to be production quality - __we leave it to your own judgement what this might entail__
 
-- Include any instructions required to run your submission in Markdown format
+- Include any instructions required to run your submission (in Markdown format)
 
 ## Deadline
 
-- While there is no specific deadline, we request that you return your submission within 7 days
+- While there is no specific deadline, we request that you return your submission __within 7 days__
 
-- We're more interested in how well you approach and complete the challenge, rather than how quickly
+- We're more interested in how you approach and complete the challenge than how quickly
 
 ## Guidelines
 
